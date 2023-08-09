@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-virgin-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
